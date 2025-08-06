@@ -1,12 +1,12 @@
 {
-	"name": "Natural-AutoVolume-Raydium",
+	"name": "Bonkfun-Bonkdotfun-VolumnBot",
 	"version": "2.0.0",
-	"description": "solana-scripts.com",
+	"description": "Bonkfun-Bonkdotfun-VolumnBot",
 	"main": "index.js",
 	"scripts": {
 		"start": "ts-node main.ts"
 	},
-	"author": "solana-scripts.com",
+	"author": "solship",
 	"license": "ISC",
 	"dependencies": {
 		"@coral-xyz/anchor": "^0.30.1",
