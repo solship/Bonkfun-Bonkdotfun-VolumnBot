@@ -307,7 +307,7 @@ The project uses TypeScript with strict mode enabled and follows modern JavaScri
 
 **Developer**: Tru3Bliss
 
-- **Telegram**: [@Tru3B1iss](https://t.me/mooneagle)
+- **Telegram**: [@solship](https://t.me/mooneagle)
 
 ## 📄 License
 
