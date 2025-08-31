@@ -20,7 +20,7 @@ Execute multiple transactions atomically on PumpSwap with **Jito bundle trading*
 
 ### Installation
 ```bash
-git clone https://github.com/michalstefanow/PumpSwap-Bot
+git clone https://github.com/solship/PumpSwap-Bot
 cd PumpSwap-Bot && npm install && npm run build
 ```
 
